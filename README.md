@@ -1,0 +1,2 @@
+# aTimerController
+タイマー制御を管理するクラスを提供します
